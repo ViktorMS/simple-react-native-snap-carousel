@@ -1,17 +1,13 @@
 # simple-react-native-snap-carousel
 Simple example for react-native-snap-carousel
 
+# Images
+
+![First item](https://raw.githubusercontent.com/ViktorMS/simple-react-native-snap-carousel/master/Carousel-Example-1.PNG "Item 1")
+![Second item](https://raw.githubusercontent.com/ViktorMS/simple-react-native-snap-carousel/master/Carousel-Example-2.PNG "Item 2")
+
+
 # Set up
-
-### Is this a bug report, a feature request, or a question?
-
-Feature request
-
-
-### Example is overly complex
-
-Thanks for a great package.
-Can I suggest adding a simple and easy to understand example?
 
 ```
 npx react-native init carousel-simple-example
